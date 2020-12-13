@@ -1,0 +1,7 @@
+lxml
+telepot
+urllib2
+requests
+bs4
+wikipedia
+youtube-dl
